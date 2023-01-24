@@ -95,6 +95,10 @@ nav ul li a {
 	align-content:flex-start;
 	flex-wrap: wrap;
 } 
+.aside img {
+	max-width: 100%;
+}
+
 
 .footer {
 	display: flex;
